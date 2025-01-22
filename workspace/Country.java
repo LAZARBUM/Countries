@@ -1,3 +1,7 @@
+// Steve Thomas Period 3
+// January 17th, 2025
+// GeoGame - This game will display Countries, provide a short Quiz asking the user to guess a country, and Review varous countries around the Earth.
+
 public class Country
 {
  // add private instance variables for the name, capital, language, and image file.
